@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Release\netstandard2.0\MVCWebApiApplication.Models.deps.json
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Release\netstandard2.0\MVCWebApiApplication.Models.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Release\netstandard2.0\MVCWebApiApplication.Models.pdb
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Release\netstandard2.0\MVCWebApiApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Release\netstandard2.0\MVCWebApiApplication.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Release\netstandard2.0\MVCWebApiApplication.Models.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Release\netstandard2.0\MVCWebApiApplication.Models.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Release\netstandard2.0\MVCWebApiApplication.Models.pdb

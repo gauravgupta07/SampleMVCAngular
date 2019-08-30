@@ -1,0 +1,19 @@
+<div class="container">
+<table datatable [dtOptions]="dtOptions" class="row-border hover">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Symbol</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr *ngFor="let employee of employees | async; let i=index">
+     <td>{{i+1}}</td>
+      <td>{{employee.id}}</td>
+      <td>{{employee.name}}</td>
+      <td>{{employee.symbol}}</td>
+    </tr>    
+  </tbody>
+</table>

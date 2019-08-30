@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\bin\Release\netstandard2.0\MVCWebApiApplication.Business.deps.json
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\bin\Release\netstandard2.0\MVCWebApiApplication.Business.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\bin\Release\netstandard2.0\MVCWebApiApplication.Business.pdb
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\bin\Release\netstandard2.0\MVCWebApiApplication.Models.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\bin\Release\netstandard2.0\MVCWebApiApplication.Models.pdb
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.csproj.CopyComplete
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Business\obj\Release\netstandard2.0\MVCWebApiApplication.Business.pdb

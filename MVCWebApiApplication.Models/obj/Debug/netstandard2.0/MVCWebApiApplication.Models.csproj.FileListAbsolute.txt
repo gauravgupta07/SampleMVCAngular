@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Debug\netstandard2.0\MVCWebApiApplication.Models.deps.json
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Debug\netstandard2.0\MVCWebApiApplication.Models.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\bin\Debug\netstandard2.0\MVCWebApiApplication.Models.pdb
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.dll
+C:\Users\Asus\source\repos\MVCWebApiApplication.Models\obj\Debug\netstandard2.0\MVCWebApiApplication.Models.pdb
